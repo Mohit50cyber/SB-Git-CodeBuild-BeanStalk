@@ -74,7 +74,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-        <finalName>CI-CD-Elastic-BeanStalk</finalName>
+        <finalName>CI-CD-Pipeline-Elastic-BeanStalk</finalName>
 	</build>
 
 </project>
